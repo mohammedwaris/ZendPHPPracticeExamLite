@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" ?>
     <widget xmlns   = "http://www.w3.org/ns/widgets"
         xmlns:gap   = "http://phonegap.com/ns/1.0"
-        id          = "com.jlojic.comptiaaplus220801pro"
+        id          = "com.jlojic.zendphppracticeexamlite"
         versionCode = "100" 
         version     = "1.0.0" >
 
     <!-- versionCode is optional and Android only -->
 
-    <name>Comptia A+ 220-801 Pro</name>
+    <name>Zend PHP Lite</name>
 
     <description>
-        An app for people who are preparing for Comptia A+ 220-801 certification.
+        An app for people who are preparing for Zend PHP certification.
     </description>
 
     <author href="http://www.jlojic.com" email="jlojic.apps@gmail.com">
